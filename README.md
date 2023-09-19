@@ -1,2 +1,2 @@
-# Neural-Networks
-Predicting using the Neural Networks 
+# Neural Networks
+### Predicting using the Neural Networks 
